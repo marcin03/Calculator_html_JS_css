@@ -1,0 +1,31 @@
+body {
+	background-color:#454855; 
+}
+h1{
+	color: white;
+}
+.main{
+	width:276px; 
+}
+.disp{
+	width:265px; 
+	height:60px; 
+	text-align:right; 
+	font-size:30px; 
+	border-radius:8px; 
+	margin:3px
+}
+.b1{
+	width:60px; 
+	height:60px; 
+	font-size:30px; 
+	border-radius:8px; 
+	margin:3px
+}
+.b2{
+	width:270px; 
+	height:60px; 
+	font-size:30px; 
+	border-radius:8px; 
+	margin:3px
+}
